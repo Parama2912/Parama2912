@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parama2912
+- 👋 Hi, I’m @Paramasivam
 - 👀 I’m interested in Web Developement,UI/UX Designing
 - 🌱 I’m currently learning Salesforce,python
 - 💞️ I’m looking to collaborate on ...
